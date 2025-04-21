@@ -17,7 +17,7 @@ public class PlayerInFuture : MonoBehaviour
     void Update()
     {
 
-        movement = Input.GetAxis("Horizontal");
+        movement = Input.GetAxisRaw("Horizontal");
 
         if (movement < 0 && facingRight) //flip player
         {
@@ -32,7 +32,7 @@ public class PlayerInFuture : MonoBehaviour
         if (Input.GetKey(KeyCode.Space) && isOnGround) //Jump
         {
             Jump();
-            isOnGround = false;
+            //isOnGround = false;
             animator.SetBool("isJump", true);
         }
 
@@ -51,6 +51,7 @@ public class PlayerInFuture : MonoBehaviour
     private void FixedUpdate()
     {
         transform.position += new Vector3(movement, 0f, 0f) * Time.fixedDeltaTime * moveSpeed;
+        rb.AddForce(new Vector2(movement*moveSpeed, 0f));
     }
 
     void Jump()
@@ -64,6 +65,14 @@ public class PlayerInFuture : MonoBehaviour
         {
             isOnGround = true;
             animator.SetBool("isJump", false);
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Ground")
+        {
+            isOnGround = false;
         }
     }
 
