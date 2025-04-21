@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c8301130b6dfb794bb7d403a2c98921a
+guid: a0da4f5a1c2a4e144ac2155fbb4484a7
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,32 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -163,8 +137,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64a49ac85702d68419fcbbbdc9e6fa46
-      internalID: 906829642
+      spriteID: 56e9cacd6e146ff448f5a02cbbe83617
+      internalID: -1055091160
       vertices: []
       indices: 
       edges: []
@@ -185,8 +159,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8b1b87c3dd0bcd46bb87a5812f13ad9
-      internalID: -100357362
+      spriteID: 5b0c4e236cbe3ed4db70f347941226e9
+      internalID: -865903881
       vertices: []
       indices: 
       edges: []
@@ -207,8 +181,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19192db9c64f7724685c9d5104ba2f9e
-      internalID: 1005892735
+      spriteID: de8620d09fcb66f4ea3f588e105049e8
+      internalID: 1887220871
       vertices: []
       indices: 
       edges: []
@@ -229,8 +203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58abfbbfd8a45b24b86e87c91edec193
-      internalID: 1909860490
+      spriteID: 19195dc5835470a4b98b8d47604af41c
+      internalID: 495231860
       vertices: []
       indices: 
       edges: []
@@ -251,8 +225,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce841c7d6d089f44c8267d3b53807595
-      internalID: -1244957213
+      spriteID: b4877f17f6594c44685c251ccbe59f2e
+      internalID: 935661394
       vertices: []
       indices: 
       edges: []
@@ -273,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 490b53c1b45bfed40a8d75045484514e
-      internalID: 377383298
+      spriteID: 8452e8edd452f4d449b7877e54405375
+      internalID: 1323302900
       vertices: []
       indices: 
       edges: []
@@ -295,8 +269,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 196f5de292b74e84f8d625a08e9c423c
-      internalID: 1597924231
+      spriteID: 931f32eb1f94c734aaae320491099be9
+      internalID: 1468765775
       vertices: []
       indices: 
       edges: []
@@ -305,7 +279,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2953421654b41f54ab1bf12e0980e5e4
+    spriteID: bd028118a018a2d4688add11d6cda564
     internalID: 0
     vertices: []
     indices: 
@@ -316,13 +290,13 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Water_64x64_0: -7239383354682525420
-      Water_64x64_1: 906829642
-      Water_64x64_2: -100357362
-      Water_64x64_3: 1005892735
-      Water_64x64_4: 1909860490
-      Water_64x64_5: -1244957213
-      Water_64x64_6: 377383298
-      Water_64x64_7: 1597924231
+      Water_64x64_1: -1055091160
+      Water_64x64_2: -865903881
+      Water_64x64_3: 1887220871
+      Water_64x64_4: 495231860
+      Water_64x64_5: 935661394
+      Water_64x64_6: 1323302900
+      Water_64x64_7: 1468765775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

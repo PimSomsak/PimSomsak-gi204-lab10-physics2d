@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: d5902bc996b85894782e6cf58c059d01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7372095802542773985
+    second: CATV_LOGO-256px_w_0
+  - first:
+      213: -8445395994655862632
+    second: CATV_LOGO-256px_w_1
+  - first:
+      213: 5531543931624649170
+    second: CATV_LOGO-256px_w_2
+  - first:
+      213: 1067051609541042460
+    second: CATV_LOGO-256px_w_3
+  - first:
+      213: 1503418627514758236
+    second: CATV_LOGO-256px_w_4
+  - first:
+      213: 3360807857311642450
+    second: CATV_LOGO-256px_w_5
+  - first:
+      213: 381821064501584771
+    second: CATV_LOGO-256px_w_6
+  - first:
+      213: 8375626093983919215
+    second: CATV_LOGO-256px_w_7
+  - first:
+      213: -6546330246315430921
+    second: CATV_LOGO-256px_w_8
+  - first:
+      213: 1444796923359524990
+    second: CATV_LOGO-256px_w_9
+  - first:
+      213: 6281974950671492677
+    second: CATV_LOGO-256px_w_10
+  - first:
+      213: -6848926215187881739
+    second: CATV_LOGO-256px_w_11
+  - first:
+      213: -1370871541273420605
+    second: CATV_LOGO-256px_w_12
+  - first:
+      213: -2121441100510105006
+    second: CATV_LOGO-256px_w_13
+  - first:
+      213: 5219860023347356293
+    second: CATV_LOGO-256px_w_14
+  - first:
+      213: -2668785023869654022
+    second: CATV_LOGO-256px_w_15
+  - first:
+      213: -7073866074683712062
+    second: CATV_LOGO-256px_w_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 201
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f192a473ded01b990800000000000000
+      internalID: -7372095802542773985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 211
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890d707a61debca80800000000000000
+      internalID: -8445395994655862632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 218
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d174fff5edf3cc40800000000000000
+      internalID: 5531543931624649170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 170
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e3bf09cdeece00800000000000000
+      internalID: 1067051609541042460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 58
+        width: 84
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f8b9b6473dd410800000000000000
+      internalID: 1503418627514758236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 117
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253f66d90fcf3ae20800000000000000
+      internalID: 3360807857311642450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 118
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383e0653c308c4500800000000000000
+      internalID: 381821064501584771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 118
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c67677e833c3470800000000000000
+      internalID: 8375626093983919215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 118
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb29fd2353c625a0800000000000000
+      internalID: -6546330246315430921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 59
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78fb6d9523fc0410800000000000000
+      internalID: 1444796923359524990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 59
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5462dae2fee0e2750800000000000000
+      internalID: 6281974950671492677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 59
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0addaf4e9b3f0a0800000000000000
+      internalID: -6848926215187881739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 59
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc94bda89fa9fce0800000000000000
+      internalID: -1370871541273420605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 59
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527e281f802f82e0800000000000000
+      internalID: -2121441100510105006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 59
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582a1e4090ba07840800000000000000
+      internalID: 5219860023347356293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 59
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbed5e192296fad0800000000000000
+      internalID: -2668785023869654022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATV_LOGO-256px_w_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 59
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd5ac5b84494dd90800000000000000
+      internalID: -7073866074683712062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CATV_LOGO-256px_w_0: -7372095802542773985
+      CATV_LOGO-256px_w_1: -8445395994655862632
+      CATV_LOGO-256px_w_10: 6281974950671492677
+      CATV_LOGO-256px_w_11: -6848926215187881739
+      CATV_LOGO-256px_w_12: -1370871541273420605
+      CATV_LOGO-256px_w_13: -2121441100510105006
+      CATV_LOGO-256px_w_14: 5219860023347356293
+      CATV_LOGO-256px_w_15: -2668785023869654022
+      CATV_LOGO-256px_w_16: -7073866074683712062
+      CATV_LOGO-256px_w_2: 5531543931624649170
+      CATV_LOGO-256px_w_3: 1067051609541042460
+      CATV_LOGO-256px_w_4: 1503418627514758236
+      CATV_LOGO-256px_w_5: 3360807857311642450
+      CATV_LOGO-256px_w_6: 381821064501584771
+      CATV_LOGO-256px_w_7: 8375626093983919215
+      CATV_LOGO-256px_w_8: -6546330246315430921
+      CATV_LOGO-256px_w_9: 1444796923359524990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 3aa55155dd33eef4b8657d9d091ab646
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2199988844933210404
+    second: portal-Sheet_32x64_0
+  - first:
+      213: 4035964763083170096
+    second: portal-Sheet_32x64_1
+  - first:
+      213: -2668076186068220295
+    second: portal-Sheet_32x64_2
+  - first:
+      213: 903247388707385507
+    second: portal-Sheet_32x64_3
+  - first:
+      213: 1499883734966276753
+    second: portal-Sheet_32x64_4
+  - first:
+      213: -7391187083690704931
+    second: portal-Sheet_32x64_5
+  - first:
+      213: 5872654677482055925
+    second: portal-Sheet_32x64_6
+  - first:
+      213: 2359566582420099928
+    second: portal-Sheet_32x64_7
+  - first:
+      213: 5647471307904836764
+    second: portal-Sheet_32x64_8
+  - first:
+      213: -6251549111338363503
+    second: portal-Sheet_32x64_9
+  - first:
+      213: 3310147624022025805
+    second: portal-Sheet_32x64_10
+  - first:
+      213: 5767040652656152645
+    second: portal-Sheet_32x64_11
+  - first:
+      213: -8085501595873914747
+    second: portal-Sheet_32x64_12
+  - first:
+      213: -1117969287675237750
+    second: portal-Sheet_32x64_13
+  - first:
+      213: -6804024934776420666
+    second: portal-Sheet_32x64_14
+  - first:
+      213: 4246326234586847144
+    second: portal-Sheet_32x64_15
+  - first:
+      213: -4030529585156677195
+    second: portal-Sheet_32x64_16
+  - first:
+      213: -649450491803331887
+    second: portal-Sheet_32x64_17
+  - first:
+      213: -5066873617574719833
+    second: portal-Sheet_32x64_18
+  - first:
+      213: -9188535514931019498
+    second: portal-Sheet_32x64_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal-Sheet_32x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde1fe33dc11871e0800000000000000
+      internalID: -2199988844933210404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-Sheet_32x64_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031e09d8190a20830800000000000000
+      internalID: 4035964763083170096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-Sheet_32x64_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97689b748d619fad0800000000000000
+      internalID: -2668076186068220295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-Sheet_32x64_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f334e6baf88c00800000000000000
+      internalID: 903247388707385507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-Sheet_32x64_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1921d0b6f48a0d410800000000000000
+      internalID: 1499883734966276753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-Sheet_32x64_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddff820f18a3d6990800000000000000
+      internalID: -7391187083690704931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 148ec74394641b948aa4fd67144d8404
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      portal-Sheet_32x64_0: -2199988844933210404
+      portal-Sheet_32x64_1: 4035964763083170096
+      portal-Sheet_32x64_2: -2668076186068220295
+      portal-Sheet_32x64_3: 903247388707385507
+      portal-Sheet_32x64_4: 1499883734966276753
+      portal-Sheet_32x64_5: -7391187083690704931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
